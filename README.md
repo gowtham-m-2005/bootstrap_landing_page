@@ -19,16 +19,17 @@ Technologies Used
 
 🧩 Architecture Overview
 
-The landing page is structured into modular sections for high readability and easy navigation:
-Section	Role
-Navbar	Fixed navigation with responsive toggler (hamburger menu)
-Showcase/Hero	Main call-to-action with enrollment trigger
-Newsletter	Email subscription bar for lead generation
-Feature Cards	Comparison of learning modes (Virtual, Hybrid, In-Person)
-Learn Content	Detailed breakdown of curriculum (Fundamentals, React)
-FAQ Accordion	Expandable questions using Bootstrap Collapse
-Instructor Grid	Profiles of teaching staff using dynamic card layouts
-Contact & Map	Physical location details and interactive MapLibre integration
+| Section            | Role                                                                 |
+|--------------------|----------------------------------------------------------------------|
+| Navbar             | Fixed navigation with responsive toggler (hamburger menu)            |
+| Showcase / Hero    | Main call-to-action with enrollment trigger                          |
+| Newsletter         | Email subscription bar for lead generation                           |
+| Feature Cards      | Comparison of learning modes (Virtual, Hybrid, In-Person)            |
+| Learn Content      | Detailed breakdown of curriculum (Fundamentals, React)               |
+| FAQ Accordion      | Expandable questions using Bootstrap Collapse                        |
+| Instructor Grid    | Profiles of teaching staff using dynamic card layouts                |
+| Contact & Map      | Physical location details and interactive MapLibre integration       |
+
 
 External Resources
 
