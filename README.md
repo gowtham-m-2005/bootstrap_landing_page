@@ -1,4 +1,4 @@
-Frosty's Frontend Bootcamp
+# Frosty's Frontend Bootcamp
 
 A modern, responsive landing page for a web development bootcamp built with HTML5, Bootstrap 5, and MapLibre GL. This project showcases a clean UI/UX for educational services, featuring a mobile-first design and interactive components.
 Technologies Used
